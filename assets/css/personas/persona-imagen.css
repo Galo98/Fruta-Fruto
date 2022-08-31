@@ -8,13 +8,13 @@
 }
 
 .persona__imagen--roberta{
-    background: url(../../img/personas/roberta.jpg);
+    background-image: url(../../img/personas/roberta.jpg);
 }
 
 .persona__imagen--marcela{
-    background: url(../../img/personas/marcela.jpg);
+    background-image: url(../../img/personas/marcela.jpg);
 }
 
 .persona__imagen--andrea{
-    background: url(../../img/personas/andrea.jpg);
+    background-image: url(../../img/personas/andrea.jpg);
 }
